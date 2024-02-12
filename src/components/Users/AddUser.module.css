@@ -5,6 +5,10 @@
   max-width: 40rem;
 }
 
+.test {
+  color: red !important;
+}
+
 .input label {
   display: block;
   font-weight: bold;
@@ -24,4 +28,3 @@
   outline: none;
   border-color: #4f005f;
 }
-
